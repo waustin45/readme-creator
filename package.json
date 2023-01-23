@@ -1,0 +1,23 @@
+{
+  "name": "readme-creator",
+  "version": "1.0.0",
+  "description": "C:\\Users\\ozzyh\\OneDrive\\Documents\\GitHub\\readme-creator\\index.js/nC:\\Users\\ozzyh\\OneDrive\\Documents\\GitHub\\readme-creator\\index.js/nC:\\Users\\ozzyh\\OneDrive\\Documents\\GitHub\\readme-creator\\index.js/n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waustin45/readme-creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waustin45/readme-creator/issues"
+  },
+  "homepage": "https://github.com/waustin45/readme-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
