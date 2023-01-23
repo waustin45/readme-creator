@@ -1,9 +1,9 @@
 
-   # big boi 
+   # readme creator 
    ## Licenses:
-   [![License: none](https://img.shields.io/badge/License-none-blue.svg)](none)
+   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](ISC)
    ## Description:
-   as;ldkfj;slakdfj
+   A program that creates the user a readme file from scratch.
    ## Table of Contents:
    -[Description](#description)<br />
    -[Installation](#installation)<br />
@@ -13,13 +13,13 @@
    -[Contributors](#contributors)<br />
    -[Email](#email)<br />
    ## Installation:
-   click the link
+   run node index.js to run program.
    ## Usage Info:
-   a;slkfja;sldkfj
+   Follow the prompts and the information will be displayed into the readme.
    ## Tests:
-   lsajdfsa;dlfj
+   run node index.js
    ## Contributors:
-   https://github.com/waustin45 <br/>https://github.com/john6543 <br/>https://github.com/jerry67 <br/>
+   https://github.com/waustin45 <br/>https://github.com/anon445 <br/>https://github.com/anon675 <br/>
    ## Email:
    austin.howell89@gmail.com
   
